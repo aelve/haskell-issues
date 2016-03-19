@@ -12,23 +12,29 @@ This is like [this unofficial Github issue tracker](https://github.com/isaacs/gi
 ## List of official issue trackers
 
 Most important:
-  [GHC](https://ghc.haskell.org/trac/ghc/) (see [how to report a bug](https://ghc.haskell.org/trac/ghc/wiki/ReportABug)),
-  [Haddock](https://github.com/haskell/haddock/issues),
-  [Hackage](https://github.com/haskell/hackage-server),
-  [cabal-install](https://github.com/haskell/cabal)
+
+  * [GHC](https://ghc.haskell.org/trac/ghc/) (see [how to report a bug](https://ghc.haskell.org/trac/ghc/wiki/ReportABug)),
+    [cabal-install](https://github.com/haskell/cabal),
+    [Haddock](https://github.com/haskell/haddock/issues)
+  * [Hackage](https://github.com/haskell/hackage-server),
+    [haskell.org](https://github.com/haskell-infra/hl/issues)
 
 Tools:
-  [haskell-mode for Emacs](https://github.com/haskell/haskell-mode),
-  [ghc-mod](https://github.com/DanielG/ghc-mod/issues),
-  [hlint](https://github.com/ndmitchell/hlint/issues)
 
-Core libraries:
-  [time](https://github.com/haskell/time/issues),
-  [directory](https://github.com/haskell/directory/issues),
-  [filepath](https://github.com/haskell/filepath/issues),
-  [transformers](http://hub.darcs.net/ross/transformers/issues)
+  * [haskell-mode for Emacs](https://github.com/haskell/haskell-mode),
+    [ghc-mod](https://github.com/DanielG/ghc-mod/issues)
+  * [hlint](https://github.com/ndmitchell/hlint/issues)
 
-Other libraries:
-  [aeson](https://github.com/bos/aeson/issues),
-  [mtl](https://github.com/ekmett/mtl/issues),
-  [Yesod](https://github.com/yesodweb/yesod/issues)
+Libraries:
+
+  * [bytestring](https://github.com/haskell/bytestring/issues),
+    [containers](https://github.com/haskell/containers/issues),
+    [unordered-containers](https://github.com/tibbe/unordered-containers/issues),
+    [vector](https://github.com/haskell/vector/issues),
+    [text](https://github.com/bos/text/issues)
+  * [directory](https://github.com/haskell/directory/issues),
+    [filepath](https://github.com/haskell/filepath/issues)
+  * [transformers](http://hub.darcs.net/ross/transformers/issues),
+    [mtl](https://github.com/ekmett/mtl/issues)
+  * [time](https://github.com/haskell/time/issues)
+  * [aeson](https://github.com/bos/aeson/issues)
