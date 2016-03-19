@@ -28,6 +28,7 @@ Tools:
   * [haskell-mode for Emacs](https://github.com/haskell/haskell-mode),
     [ghc-mod](https://github.com/DanielG/ghc-mod/issues)
   * [hlint](https://github.com/ndmitchell/hlint/issues)
+  * [stack](https://github.com/commercialhaskell/stack/issues)
 
 Libraries:
 
