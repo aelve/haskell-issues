@@ -11,7 +11,7 @@ This is like [this unofficial Github issue tracker](https://github.com/isaacs/gi
 
 ## Tags
 
-* [Changes made thanks to this project](https://github.com/aelve/haskell-issues/labels/win)
+* [Changes made thanks to this project](https://github.com/aelve/haskell-issues/issues?utf8=%E2%9C%93&q=label%3Awin)
 
 ## List of official issue trackers
 
