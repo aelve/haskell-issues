@@ -7,7 +7,9 @@ This is like [this unofficial Github issue tracker](https://github.com/isaacs/gi
 * You spotted a bug in documentation and don't know where to file it
 * GHC gives a weird error message and you don't know how to use GHC Trac
 * You have an idea for Cabal but don't know whether one of a myriad open Cabal issues already deals with it
-* You just think it would be nice to have a library that does X
+* You think some library should be deprecated but you don't want to bother reaching the maintainer
+* You found a bug/typo in someone's library but you're too shy to reach the maintainer (or you're unsure about the bug, or the bug is really small)
+* You think it would be nice to have a library that does X (maybe someone would write one now that there's interest?)
 
 ## Tags
 
