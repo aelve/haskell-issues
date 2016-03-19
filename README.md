@@ -9,6 +9,10 @@ This is like [this unofficial Github issue tracker](https://github.com/isaacs/gi
 * You have an idea for Cabal but don't know whether one of a myriad open Cabal issues already deals with it
 * You just think it would be nice to have a library that does X
 
+## Tags
+
+* [Changes made thanks to this project](https://github.com/aelve/haskell-issues/labels/win)
+
 ## List of official issue trackers
 
 Most important:
