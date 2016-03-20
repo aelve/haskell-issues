@@ -1,8 +1,8 @@
 # Haskell issues
 
-This is like [this unofficial Github issue tracker](https://github.com/isaacs/github), but for Haskell and all Haskell-related things (Cabal, Stack, standard libraries, etc etc etc).
+This is like [this unofficial Github issue tracker](https://github.com/isaacs/github), but for Haskell and all Haskell-related things (Cabal, Stack, standard libraries, etc etc etc). Our purpose is **discussing and taking care of each other's half-baked ideas**.
 
-**Post your half-baked ideas here and somebody else will take care of them.** Examples:
+Open an issue if:
 
 * You spotted a bug in documentation and don't know where to file it
 * GHC gives a weird error message and you don't know how to use GHC Trac
@@ -10,6 +10,8 @@ This is like [this unofficial Github issue tracker](https://github.com/isaacs/gi
 * You have an idea for Cabal but don't know whether one of a myriad open Cabal issues already deals with it
 * You think some library should be deprecated but you don't want to bother reaching the maintainer
 * You think it would be nice to have a library that does X
+
+Or you can look at the list of open issues and solve some of them! (E.g. by pinging people who maintain certain libraries, or opening issues elsewhere, or fixing something by yourself if you have commit rights for GHC/base/etc, or making a library out of a piece of code that you had lying on your hard drive.)
 
 ## Tags
 
