@@ -6,10 +6,10 @@ This is like [this unofficial Github issue tracker](https://github.com/isaacs/gi
 
 * You spotted a bug in documentation and don't know where to file it
 * GHC gives a weird error message and you don't know how to use GHC Trac
+* You want to add a new function to someone's library, but you don't know whether it's even a good idea and thus don't want to create an “add X” issue on the official tracker
 * You have an idea for Cabal but don't know whether one of a myriad open Cabal issues already deals with it
 * You think some library should be deprecated but you don't want to bother reaching the maintainer
-* You found a bug/typo in someone's library but you're too shy to reach the maintainer (or you're unsure about the bug, or the bug is really small)
-* You think it would be nice to have a library that does X (maybe someone would write one now that there's interest?)
+* You think it would be nice to have a library that does X
 
 ## Tags
 
