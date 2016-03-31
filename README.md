@@ -33,6 +33,7 @@ Tools:
     [ghc-mod](https://github.com/DanielG/ghc-mod/issues)
   * [hlint](https://github.com/ndmitchell/hlint/issues)
   * [stack](https://github.com/commercialhaskell/stack/issues)
+  * [lambdabot](https://github.com/lambdabot/lambdabot/issues)
 
 Libraries:
 
